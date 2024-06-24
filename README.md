@@ -41,7 +41,9 @@ pip install -r requirements.txt
 
 To train a model, use the `train.py` script. You can specify various parameters such as dataset path, image size, model name, and more.
 
-```python train.py --dataset_path /path/to/dataset --img_size 1024 1024 --model_name_or_path facebook/mask2former-swin-small-ade-semantic --output_path weights --learning_rate 0.0001 --epochs 10
+```python
+
+python3 train.py --dataset_path /path/to/dataset --img_size 1024 1024 --model_name_or_path facebook/mask2former-swin-small-ade-semantic --output_path weights --learning_rate 0.0001 --epochs 10
 ```
 
 ### Inference
