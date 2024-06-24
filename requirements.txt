@@ -1,0 +1,7 @@
+datasets >= 2.0.0
+torch == 2.0.1
+accelerate
+evaluate
+Pillow
+albumentations
+transformers
