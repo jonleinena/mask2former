@@ -30,8 +30,8 @@ Vision transformers have revolutionized the field of computer vision by leveragi
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/vision-transformer-training.git
-cd vision-transformer-training
+git clone https://github.com/jonleinena/mask2former.git
+cd mask2former
 pip install -r requirements.txt
 ```
 
